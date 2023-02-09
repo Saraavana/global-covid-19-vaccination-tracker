@@ -4,9 +4,9 @@ In this data analyses project, I have evaluated the amount of population that ha
 - Fully, partially and non vaccinated people across the countries.
 - The influence of GDP (Gross Domestic Product) of the country over the vaccination of the population
 
-This dashboard can be used to classify the different population groups to develop strategies to improves to vaccination drive.
+This dashboard can be used to classify the different population groups to develop strategies to improves the vaccination drive.
 
-![](.Global%20COVID-19%20Vaccine%20Tracker.png)
+![](Global%20COVID-19%20Vaccine%20Tracker.png)
 
 
 
